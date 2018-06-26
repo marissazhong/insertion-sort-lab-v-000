@@ -18,5 +18,4 @@ function insertionSort(array){
 }
 
 array = [0,0,-1,0];
-console.log(findMinAndRemove(array));
-console.log(array);
+console.log(sorted(array));
