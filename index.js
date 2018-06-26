@@ -12,3 +12,5 @@ function findMinAndRemove(array){
 function insertionSort(array){
 
 }
+
+console.log(findMinAndRemove([0,0,-1,0]));
