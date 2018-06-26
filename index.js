@@ -18,4 +18,4 @@ function insertionSort(array){
 }
 
 array = [0,0,-1,0];
-console.log(sorted(array));
+console.log(insertionSort(array));
