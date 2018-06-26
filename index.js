@@ -17,5 +17,5 @@ function insertionSort(array){
   return sorted;
 }
 
-array = [0,2,-1,1];
-console.log(insertionSort(array));
+//array = [0,2,-1,1];
+//console.log(insertionSort(array));
